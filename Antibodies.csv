@@ -1,0 +1,24 @@
+﻿Name,Source,Identifier,Dilution,Application
+Rabbit monoclonal anti-CIP2A,Cell Signalling Technology,14805S,"1:1,000",WB
+Mouse monoclonal anti-CIP2A,Santa Cruz Biotechnology,sc-80659,1:500,IF
+Mouse monoclonal anti-CIP2A,Santa Cruz Biotechnology,sc-80659,1:200,WB
+Rabbit polyclonal anti-MCM8,Proteintech,16451-1-AP,"1:5,000",WB
+Rabbit polyclonal anti-MCM9,Millipore,ABE2603,"1:10,000",WB
+Mouse monoclonal anti-MAD2L2,Santa Cruz Biotechnology,sc-135977,1:200,WB
+Rabbit monoclonal anti-HELQ,Cell Signalling Technology,19436S,"1:1,000",WB
+Mouse monoclonal anti-SMARCAL1,Santa Cruz Biotechnology,sc-376377,1:500,WB
+Mouse monoclonal anti-FANCM,Novus Biologicals,NPB2-50418,"1:1,000",WB
+Mouse monoclonal anti-vinculin,Sigma-Aldrich,V9131,"1:100,000",WB
+Rat monoclonal anti-alpha tubulin,Novus Biologicals,NB600-506,"1:20,000",WB
+Rabbit polyclonal anti-53BP1,Bethyl Laboratories,A300-272A,"1:2,000",IF
+Rabbit monoclonal anti-cGAS,Cell Signalling Technology,15102S,"1:1,000",IF
+Mouse monoclonal anti-cyclin A,Santa Cruz Biotechnology,sc-271682,"1:1,000",IF
+Rabbit polyclonal anti-γH2AX,Bethyl Laboratories,A300-081A,"1:2,000",IF
+Mouse monoclonal anti-γH2AX,Millipore,05-636,1:1000,IF
+Mouse monoclonal anti-PCNA,Thermo Fisher Scientific,MA5-11358,1:500,IF
+Rabbit polyclonal anti-RPA2,Bethyl Laboratories,A300-244A,"1:5,000",IF
+Rabbit polyclonal anti-RAD51,Bioacademia,70-002,"1:10,000",IF
+Goat anti-mouse Alexa Fluor 488 ,Thermo Fisher Scientific,A11001,1:500,IF
+Goat anti-rabbit Alexa Fluor 488,Thermo Fisher Scientific,A11008,1:500,IF
+Goat anti-mouse Alexa Fluor 594,Thermo Fisher Scientific,A11005,1:500,IF
+Goat anti-rabbit Alexa Fluor 594,Thermo Fisher Scientific,A11012,1:500,IF
