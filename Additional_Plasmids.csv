@@ -1,0 +1,31 @@
+﻿Plasmid Number,Plasmid Name,Targets,Cloning Note,Cloning Oligo,Cloning Vector,Details
+pSAM148,mCherry-NLS-HYGRO ,,,,,
+pSAM149,GFP-NLS-HYGRO ,,,,,
+pSAM484,in4mer additional plasmid V98,BRCA1_OR52A5,IDT eBlock,in4mer additional oligo V98,pRDA_052,
+pSAM485,in4mer additional plasmid V99,HELQ_OR52A5,IDT eBlock,in4mer additional oligo V99,pRDA_052,
+pSAM486,in4mer additional plasmid V100,OR1E1_POLQ,IDT eBlock,in4mer additional oligo V100,pRDA_052,
+pSAM487,in4mer additional plasmid V101,BRCA1_GEN1,IDT eBlock,in4mer additional oligo V101,pRDA_052,
+pSAM488,in4mer additional plasmid V102,BRCA1_CIP2A,IDT eBlock,in4mer additional oligo V102,pRDA_052,
+pSAM489,in4mer additional plasmid V103,BRCA1_POLQ,IDT eBlock,in4mer additional oligo V103,pRDA_052,
+pSAM490,in4mer additional plasmid V104,CIP2A_GEN1,IDT eBlock,in4mer additional oligo V104,pRDA_052,
+pSAM491,in4mer additional plasmid V105,GEN1_POLQ,IDT eBlock,in4mer additional oligo V105,pRDA_052,
+pSAM492,in4mer additional plasmid V106,CIP2A_POLQ,IDT eBlock,in4mer additional oligo V106,pRDA_052,
+pSAM493,in4mer additional plasmid V107,FANCL_POLQ,IDT eBlock,in4mer additional oligo V107,pRDA_052,
+pSAM494,in4mer additional plasmid V108,HELQ_MAD2L2,IDT eBlock,in4mer additional oligo V108,pRDA_052,
+pSAM495,in4mer additional plasmid V109,HELQ_MCM9,IDT eBlock,in4mer additional oligo V109,pRDA_052,
+pSAM499,in4mer additional plasmid V110,BRCA1_OR52A5_opt1,IDT eBlock,in4mer additional oligo V110,pRDA_052,
+pSAM500,in4mer additional plasmid V111,BRCA1_OR52A5_opt2,IDT eBlock,in4mer additional oligo V111,pRDA_052,
+pSAM501,in4mer additional plasmid V112,BRCA1_GEN1_opt1,IDT eBlock,in4mer additional oligo V112,pRDA_052,
+pSAM502,in4mer additional plasmid V113,BRCA1_CIP2A_opt1,IDT eBlock,in4mer additional oligo V113,pRDA_052,
+pSAM503,in4mer additional plasmid V114,BRCA1_POLQ_opt1,IDT eBlock,in4mer additional oligo V114,pRDA_052,
+pSAM504,in4mer additional plasmid V115,BRCA1_GEN1_opt2,IDT eBlock,in4mer additional oligo V115,pRDA_052,
+pSAM505,in4mer additional plasmid V116,BRCA1_CIP2A_opt2,IDT eBlock,in4mer additional oligo V116,pRDA_052,
+pSAM506,in4mer additional plasmid V117,BRCA1_POLQ_opt2,IDT eBlock,in4mer additional oligo V117,pRDA_052,
+pSAM321,Cas12a FANCL_GEN1 plasmid,FANCL_GEN1,Overlap Extension,SAM659/SAM724/SAM463/SAM464,pRDA_052,
+pSAM290,Cas12a FANCL_OR52A5 plasmid,FANCL_OR52A5,Overlap Extension,SAM659/SAM459/SAM463/SAM464,pRDA_052,
+pSAM315,Cas12a OR1E1_GEN1 plasmid,OR1E1_GEN1,Overlap Extension,SAM454/SAM724/SAM463/SAM464,pRDA_052,
+pSAM134,Cas12a OR1E1_OR52A5 plasmid,OR1E1_OR52A5,Overlap Extension,SAM454/SAM459/SAM463/SAM464,pRDA_052,
+pRDA_052,Lentiviral Cas12a gRNA expression backbone,,,,,Addgene #136474
+pSAM112-UMI,pRDA_052 UMI,,,,,"Pooled screening gRNA vector backbone, modified pRDA_052 to contain a 6bp UMI 3' of gRNA array"
+pRDA_174,Lentiviral enCas12a expression,,,,,Addgene #136476
+pXPR206-Hygro,,,,,,Modified verson of pXPR206 (Addgene #96920) containing hygromycin selection instead of puromycin selection cassette
